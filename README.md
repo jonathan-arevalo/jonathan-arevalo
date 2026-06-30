@@ -17,5 +17,3 @@ Currently making new projects.
 <br />
 
 #
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-arevalo&show_icons=true&theme=transparent)
